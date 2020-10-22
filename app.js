@@ -184,4 +184,4 @@ var controller = (function(budgetCtrl, UICtrl) {
 
 controller.init();
 
-//13. Updating the Budget Controller (00:00)
+//13. Updating the Budget Controller (00:01)
